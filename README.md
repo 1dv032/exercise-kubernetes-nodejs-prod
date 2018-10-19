@@ -24,5 +24,5 @@ You should now convert that into a Kuvernetes environment and the requirements a
   * certificate should not be baked in the image, it should use kubernetes secrets
 
 ## Resources
-* Creating self-signed certificate
-* (https://github.com/kubernetes/examples/tree/master/staging/https-nginx)
+* [Creating self-signed certificate](https://github.com/1dv032/exercise-docker-nodejs-prod)
+* [Adding nginx config and certs as config maps and secret](https://github.com/kubernetes/examples/tree/master/staging/https-nginx)
